@@ -12,19 +12,20 @@ RuYi
 - [随机密码](https://www.avast.com/zh-cn/random-password-generator)
 - [开发文档库](https://devdocs.io/)
 - 搜索：[Google](https://www.google.com/ncr) [Bing + AI](https://www.bing.com/new)
-- 问答、社区：[StackOverflow](https://stackoverflow.com/) [Dev](https://dev.to/) [虫部落](https://www.chongbuluo.com/) [V2EX](https://www.v2ex.com/) [稀土掘金](https://juejin.cn/)
-- 资讯：[热榜](https://tophub.today/c/developer) 
+- 问答、社区：[StackOverflow](https://stackoverflow.com/) [Dev](https://dev.to/) [虫部落](https://www.chongbuluo.com/) [V2EX](https://www.v2ex.com/) [稀土掘金](https://juejin.cn/) [LearnKu](https://learnku.com/)
+- 博客、资讯：[原创博客技术联盟](http://techblog.pub/) [阮一峰博客](https://ruanyifeng.com/blog/) [廖雪峰的官方网站](https://www.liaoxuefeng.com/) [已故陈皓 酷壳](https://www.coolshell.cn/) [热榜](https://tophub.today/c/developer) 
 - 学术搜索：[谷歌学术镜像](https://ac.scmor.com/) [虫部落学术导航](https://scholar.chongbuluo.com/)
 - 相似与替代：[相似网站](https://www.similarsites.com/) [替代应用](https://alternativeto.net/)
 
 ### 专注
 
-- 算法：[力扣](https://leetcode.cn/)
-- 前端：[MDN Web Docs](https://developer.mozilla.org/zh-CN/) [导航](https://ailongmiao.com/web/) [awesome-vue](https://github.com/vuejs/awesome-vue) []()
+- 算法：[力扣](https://leetcode.cn/) [算法可视化](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) [数据结构和算法动态可视化](https://visualgo.net/zh) [更多](https://blog.csdn.net/qq_39453936/article/details/123456269)
+- 前端：[MDN Web Docs](https://developer.mozilla.org/zh-CN/) [导航](https://ailongmiao.com/web/) [awesome-vue](https://github.com/vuejs/awesome-vue)
 - 正则：[regex101](https://regex101.com/) [RegExr](https://regexr.com/)
 - 佳软：[小众软件](https://www.appinn.com/)
-- 后端（Java/Golang/Python/PHP/...）：[awesome系列](https://github.com/sindresorhus/awesome) [原创博客技术联盟](http://techblog.pub/) [阮一峰博客](https://ruanyifeng.com/blog/) [awesome-backend)](https://github.com/zhashkevych/awesome-backend)
+- 后端（Java/Golang/Python/PHP/...）：[awesome系列](https://github.com/sindresorhus/awesome) [awesome-backend](https://github.com/zhashkevych/awesome-backend) [java导航](http://cxy521.com/java.html) [python导航](http://cxy521.com/python.html)
 - 设计：[SeeSeed](https://www.seeseed.com/)
+- AI：[AIGC导航站](https://www.aigc.cn/) [NaviAI导航](https://www.naviai.cn/) [工具达人](https://toolsdar.com/ai)
 
 ### 应用软件
 
