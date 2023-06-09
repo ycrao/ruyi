@@ -42,3 +42,4 @@ RuYi
 - 快捷指令 + [Scriptable](https://scriptable.app/)：应用代码示例 [scripts-for-scriptable](https://github.com/ycrao/scripts-for-scriptable)
 - 开发调试、网络抓包：[ApiFox](https://apifox.com/) [Postman](https://www.postman.com/) [Hoppscotch](https://github.com/hoppscotch/hoppscotch) [Fiddler](https://www.telerik.com/fiddler) [mitmproxy](https://mitmproxy.org/) [Storm Sniffer](https://apps.apple.com/cn/app/storm-sniffer-packet-capture/id1610958307) 
 - 浏览器用户脚本注入：[暴力猴](https://violentmonkey.github.io/get-it/) 或 [篡改猴](https://www.tampermonkey.net/index.php) 脚本查找可到[油叉脚本站](https://greasyfork.org/zh-CN)
+- 免费内穿方案，参考 [tunnel.md](tunnel.md)
