@@ -1,14 +1,16 @@
 tunnel
 ------
 
-一些场景下（如本地网站给外部客户演示、微信开发调试等）可能需要内穿服务，可以借助于一些免费服务，来实现临时的访问。
+一些场景下（如本地网站给外部客户演示、微信开发调试等）可能需要内穿服务，可以借助于一些免费服务，来实现临时访问。
 
 
 ### Cloudflare
 
-从 [cloudflared](https://github.com/cloudflare/cloudflared/releases) 下载最新的对应操作系统的二进制文件，然后执行：
+从 [cloudflared](https://github.com/cloudflare/cloudflared/releases) 下载最新的对应操作系统的二进制文件，然后执行下面类似命令：
 
 ```bash
+# 更多帮助可以使用 --help 参数
+./cloudflared --help
 # --url 后面追加的参数是本地需要映射的网站（`9999`为端口，请根据实际修改）
 ./cloudflared tunnel --url http://localhost:9999
 ```
