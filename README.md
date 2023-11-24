@@ -1,12 +1,12 @@
 RuYi
 ----
 
->   RuYi [如意] —— 工欲善其事，必先利其器。
+>   RuYi [如意] —— 工欲善其事，必先利其器。如下文所列某个网站链接失效无法访问或者有新的网站推荐，请提 PR 或 Issue 来更补。
 
 ### 在线助手及工具箱网站
 
-- [tool.lu](https://tool.lu)
-- [DevBox开发工具箱](https://devbox.cn/tools/)
+- [tool.lu](https://tool.lu) 腾讯QQ浏览器出品工具箱 - [帮小忙](https://tool.browser.qq.com/)
+- [DevBox开发工具箱](https://devbox.cn/tools/) [全栈工具](https://tools.qzxdp.cn/)
 - JSON助手：[json.cn](https://json.cn) [sojson.com](https://www.sojson.com/)
 - [IP助手](https://ip.cn)
 - [随机密码](https://www.avast.com/zh-cn/random-password-generator)
